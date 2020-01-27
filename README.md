@@ -1,0 +1,3 @@
+## Algorithms
+
+* Rabin-Karp Algorithm
